@@ -5,6 +5,8 @@ import Podcasts from './pages/Podcasts';
 import MovieCollection from './pages/MovieCollection';
 import Navbar from './Navbar';
 
+//more necessary navigation elements and all website pages
+
 function App() {
   return (
     <BrowserRouter>
