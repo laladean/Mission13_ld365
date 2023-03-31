@@ -4,6 +4,8 @@ import styles from '../styles.module.css';
 
 const movieData = data.MovieData;
 
+// Webpage for the movie database
+
 function MovieList() {
   return (
     <>
