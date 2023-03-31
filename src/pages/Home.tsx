@@ -1,6 +1,8 @@
 import React from 'react';
 import styles from '../styles.module.css';
 
+// homepage for Joel's website
+
 function Home() {
   return (
     <>
