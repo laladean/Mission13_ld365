@@ -27,6 +27,7 @@ function MovieList() {
               </tr>
             </thead>
             <tbody>
+            {/* Taking data from the json database and putting it on the page */}
               {movieData.map((m) => (
                 <tr>
                   <td>{m.Title}</td>
